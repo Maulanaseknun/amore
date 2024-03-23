@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container mx-auto text-center">
           <p>&copy; 2024 PT Amore Teknologi Kreatif.</p>
           <p>Alamat: Jl. Paccerakang No.170, Kota Makassar, Sulawesi Selatan</p>
-          <p>Email: info@example.com</p>
+          <p>Email: info@amoreteknologi.com</p>
           <div className="mt-4">
             <a href="#" className="mr-4 text-gray-300 hover:text-white">
               Beranda

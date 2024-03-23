@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div className="bg-white rounded-lg overflow-hidden relative px-5  mt-10 md:mt-20">
+    <div className="bg-white rounded-lg overflow-hidden relative px-5  mt-10 md:mt-20" id="tentang">
       <div className="absolute inset-0 bg-white bg-opacity-75"></div>
       <div className="relative p-6">
         <h2 className="text-base font-semibold text-left  text-orange">TENTANG AMORE</h2>

@@ -38,7 +38,7 @@ const Services = () => {
 
   return (
     <>
-      <div className="bg-navi rounded-t-3xl   shadow-xl p-4 max-w-screen-2xl mx-2 mt-12">
+      <div className="bg-navi rounded-t-3xl   shadow-xl p-4 max-w-screen-2xl mx-2 mt-12" id="layanan">
         <h2 className="text-base font-semibold text-orange text-left mt-4  px-5">LAYANAN KAMI</h2>
         <p className="text-white px-4 text-3xl font-sans mt-10">Berikut adalah beberapa layanan yang kami tawarkan.</p>
         <div className=" m-auto  mt-10 mb-8">

@@ -3,7 +3,7 @@ import contact from '../assets/contact.jpg';
 
 const Contact = () => {
   const handleWhatsAppClick = () => {
-    const phoneNumber = '62895324598732';
+    const phoneNumber = '6285340630063';
 
     window.location.href = `https://wa.me/${phoneNumber}`;
   };

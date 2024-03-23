@@ -4,9 +4,8 @@ import bisnis from '../assets/bisniss.jpg';
 const Home = () => {
   return (
     <>
-      <div className="md:px-12 p-4   max-w-screen-2xl mx-auto  mt-20 ">
+      <div className="md:px-12 p-4   max-w-screen-2xl mx-auto  mt-20 " id="beranda">
         <div>
-          {/* <h6 className='md:mt-10'>👋Hi, let's work together</h6> */}
           <div className=" flex flex-col md:flex-row justify-between items-center">
             <div className="md:w-3/5  ">
               <h6 className="">👋Hai, mari kita bekerja sama</h6>

@@ -7,7 +7,7 @@ import nipah from '../assets/nipah.png';
 
 const Mitra = () => {
   return (
-    <div className="md:px-14 px-4 py-1 max-w-screen-2xl mx-2   bg-navi rounded-b-3xl ">
+    <div className="md:px-14 px-4 py-1 max-w-screen-2xl mx-2   bg-navi rounded-b-3xl " id='mitra'>
       <div className="text-center my-8 px-4">
         <h2 className="text-base  font-semibold text-left  text-orange mb-4">MITRA KAMI</h2>
         <hr className="my-4 border-b-2 border-orange" />
